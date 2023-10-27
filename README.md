@@ -1,6 +1,6 @@
 -  ### Hi, I’m Braz Junior 👋
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braz-calixto-de-souza-junior-1408a7192/)
-[![Blog][(https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/braz_juniior?igshid=MzMyNGUyNmU2YQ==)
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/braz_juniior?igshid=MzMyNGUyNmU2YQ==)
 
 <!---
 Braizera/Braizera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
