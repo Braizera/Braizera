@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Braizera
+- 👋 Hi, I’m Braz Junior
 - 👀 I'm interested in software development, machine learning, and artificial intelligence.
 - 🌱 Currently, I'm learning Python, JavaScript, HTML, CSS, and back-end development.
 - 💞️ I'm looking to collaborate on open-source projects related to machine learning and web development.
-- 📫 How to reach me: brazcalixto@gmail.com or (https://www.linkedin.com/in/braz-calixto-de-souza-junior-1408a7192/)
+- 📫 How to reach me: brazcalixto@gmail.com or [![Blog](https://www.linkedin.com/in/braz-calixto-de-souza-junior-1408a7192/)]
 
 
 <!---
