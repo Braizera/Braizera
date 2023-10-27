@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Braz Junior
-- 👀 I'm interested in software development, machine learning, and artificial intelligence.
-- 🌱 Currently, I'm learning Python, JavaScript, HTML, CSS, and back-end development.
-- 💞️ I'm looking to collaborate on open-source projects related to machine learning and web development.
-- 📫 How to reach me: brazcalixto@gmail.com or [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braz-calixto-de-souza-junior-1408a7192/)
-
+-  ### Hi, I’m Braz Junior 👋
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braz-calixto-de-souza-junior-1408a7192/)
+[![Blog]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/braz-calixto-de-souza-junior-1408a7192/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/braz_juniior?igshid=MzMyNGUyNmU2YQ==))
 
 <!---
 Braizera/Braizera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
