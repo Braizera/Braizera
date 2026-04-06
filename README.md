@@ -23,3 +23,39 @@ Entusiasta por tecnologia, apaixonado por inovação! Estudante de Sistema de In
 Braizera/Braizera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Script de desativação em massa (DEXBoard)
+
+Criei o script `scripts/desativar_usuarios_dexboard.py` para desativar usuários em lote via API.
+
+### Exemplo de CSV
+
+```csv
+user_id,email
+123,
+,usuario1@empresa.com
+456,usuario2@empresa.com
+```
+
+### Execução (simulação)
+
+```bash
+python3 scripts/desativar_usuarios_dexboard.py \
+  --base-url "https://seu-dexboard.com" \
+  --token "SEU_TOKEN" \
+  --input "usuarios.csv" \
+  --id-column "user_id" \
+  --email-column "email" \
+  --dry-run
+```
+
+### Execução real
+
+```bash
+python3 scripts/desativar_usuarios_dexboard.py \
+  --base-url "https://seu-dexboard.com" \
+  --token "SEU_TOKEN" \
+  --input "usuarios.csv"
+```
+
+> Ajuste os parâmetros `--lookup-endpoint`, `--deactivate-endpoint` e `--deactivate-payload` conforme o contrato da API do seu DEXBoard.
